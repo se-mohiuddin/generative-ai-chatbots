@@ -1,0 +1,12 @@
+# Generative AI Chatbots - Project Dependencies
+
+# LangChain & Groq LLM integration
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-groq>=0.2.0
+
+# Environment variables management
+python-dotenv>=1.0.0
+
+# Web Interface (for 03-streamlit-chatbot)
+streamlit>=1.35.0
